@@ -1,0 +1,5 @@
+- [x] Add delete all queries to `TransactionDao` and `ProductDao`
+- [x] Add `deleteAllData` to `AppRepository`
+- [x] Add `resetDatabase` function to `ProductViewModel`
+- [x] Add "Hapus Semua Data" button in `ProdukScreen` (inside top bar or settings)
+- [x] Verify deletion works correctly

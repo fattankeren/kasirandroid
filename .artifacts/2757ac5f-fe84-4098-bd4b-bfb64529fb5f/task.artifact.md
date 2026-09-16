@@ -1,0 +1,23 @@
+# Tasks - Modern POS UI Implementation
+
+- `[x]` Phase 1: Theme & Navigation
+    - `[x]` Update `Color.kt` (Soft Indigo Palette)
+    - `[x]` Update `Theme.kt` (M3 Configuration)
+    - `[x]` Refine `MainActivity.kt` Navigation
+- `[x]` Phase 2: "Produk" Page Implementation
+    - `[x]` Create `ProductCard` component
+    - `[x]` Create `SearchBar` component
+    - `[x]` Create Category Filter Chips
+    - `[x]` Assemble `ProdukScreen`
+    - `[x]` Add "Product Management" (Add/Edit/Delete dialogs)
+- `[x]` Phase 3: "Kasir" Page Implementation
+    - `[x]` Refine `PosViewModel` logic
+    - `[x]` Create `CartItem` component
+    - `[x]` Implement `KasirScreen` (Grid + Cart Summary)
+    - `[x]` Add Checkout Payment Flow
+- `[x]` Phase 4: "Riwayat" Page Implementation
+    - `[x]` Update `HistoryViewModel` with filtering
+    - `[x]` Create `RiwayatItemCard` component
+    - `[x]` Implement Receipt Details Dialog
+    - `[x]` Assemble `RiwayatScreen`
+- `[ ]` Phase 4: "Riwayat" Page Implementation
